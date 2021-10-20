@@ -10,6 +10,6 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "Change to Terraform"
+  default     = "Change 2 Terraform"
 }
 
